@@ -1,0 +1,8 @@
+Save:0
+Name:3
+HP:0
+Power:0
+Defense:0
+Strength:0
+Weight:0
+Path:0

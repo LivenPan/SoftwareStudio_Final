@@ -10,6 +10,8 @@ public class Main {
 		w1.doSomeWork();*/
 		/*Thread s = new Thread(w1);
 		s.start();*/
+		
+		/*test*/
 	}
 	
 }
